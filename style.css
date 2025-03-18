@@ -21,3 +21,11 @@ a {
     font-weight: bold; /*Negrito - bold -> padrão*/ 
 }
 
+a:hover {
+    color:black; /*Mudança da cor do link ao passar o mouse */
+    font-size: 20px; /*Aumenta o tamanho ao passar o mouse*/ 
+    transition: 0.3s; /*Transição de estilo conforme o tempo estabelecido*/
+}
+
+
+
