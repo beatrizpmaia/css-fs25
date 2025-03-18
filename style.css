@@ -1,0 +1,23 @@
+body {
+    background-color: #f0f0f0;
+    font-family: arial, sans-serif;
+    text-align: center;
+
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+    color: #666;
+}
+
+a {
+    display: block;
+    color: blue;
+    text-decoration: none; /*Remove o sublinhado padrão dos links*/ 
+    font-weight: bold; /*Negrito - bold -> padrão*/ 
+}
+
