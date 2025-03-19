@@ -27,5 +27,23 @@ a:hover {
     transition: 0.3s; /*Transição de estilo conforme o tempo estabelecido*/
 }
 
+.container {
+    display: flex; /*Dispõe os itens para os lados*/
+    justify-content: center; /*Centralização*/
+    gap: 20px; /*Distância entre os icones*/
+    margin-top: 20px; /*Distância em relação a margem de cima*/
+}
+
+#card {
+    background: white; /*Cor*/
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 150px; /*Largura*/
+    text-align: center; /*Centralização*/
+    box-shadow: 2px 2px 10px rgba(0,0,0,0); /*Sombra*/
+}
+
+
+
 
 
